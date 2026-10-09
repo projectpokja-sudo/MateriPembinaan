@@ -1,0 +1,8 @@
+{
+  "name": "GENERATOR RINGKASAN MATERI PEMBINAAN PENGAWAS PAI",
+  "description": "Asisten Cerdas Pengawasan Akademik Guru PAI dan Budi Pekerti untuk menyusun ringkasan materi pembinaan terstruktur berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
